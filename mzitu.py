@@ -33,3 +33,4 @@ for list in all_a:
                 f.write(image.content)
                 f.close
 
+#done
