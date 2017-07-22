@@ -32,4 +32,4 @@ for list in all_a:
                 f=open(name+'.jpg','ab')
                 f.write(image.content)
                 f.close
-#已完成，没问题 2016年1月4日
+
